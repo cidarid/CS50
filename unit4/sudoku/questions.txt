@@ -1,0 +1,10 @@
+It means that the strings are equal, as the differences in between the various letter codes are 0.
+if (strcmp(g.level, "debug") == 0) {
+    int max = 9;
+} else {
+    max = 1024;
+}
+If only one of the items could be properly formatted.
+g.y and g.x
+The show_cursor function
+Around line 185
